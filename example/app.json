@@ -1,0 +1,22 @@
+{
+  "name": "react-native-truchastic-example",
+  "displayName": "Truchastic Example",
+  "expo": {
+    "name": "react-native-truchastic-example",
+    "slug": "react-native-truchastic-example",
+    "description": "Example app for react-native-truchastic",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
